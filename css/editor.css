@@ -1,0 +1,16 @@
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+main > .container {
+  padding: 60px 15px 0;
+
+}
+
+.navbar-brand {
+  color: #0dcaf0 !important;
+}
+
+body {
+  background-color: #4e555b;
+}

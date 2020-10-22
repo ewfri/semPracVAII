@@ -1,0 +1,28 @@
+h2 {
+    padding-left: 50px;
+    size: 30px;
+    font-family: "Berlin Sans FB";
+    background-color: #9fcdff;
+
+}
+
+#sortIcon {
+    width: 16px;
+    height: 16px;
+}
+
+.polozky {
+    background-color: rgba(0, 123, 255, .90);
+}
+
+#hlRiadok {
+    background-color: black;
+    color: #9fcdff;
+}
+
+body {
+    background: url("https://wallpaperset.com/w/full/6/e/a/453909.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+}
