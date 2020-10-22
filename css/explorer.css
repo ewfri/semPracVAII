@@ -1,14 +1,9 @@
 h2 {
     padding-left: 50px;
-    size: 30px;
-    font-family: "Berlin Sans FB";
+    font-size: 30px;
+    font-family: "Berlin Sans FB", Serif;
     background-color: #9fcdff;
 
-}
-
-#sortIcon {
-    width: 16px;
-    height: 16px;
 }
 
 .polozky {

@@ -1,7 +1,3 @@
-/* Custom page CSS
--------------------------------------------------- */
-/* Not required for template or sticky footer method. */
-
 main > .container {
   padding: 60px 15px 0;
 
@@ -9,8 +5,22 @@ main > .container {
 
 .navbar-brand {
   color: #0dcaf0 !important;
+
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 1);
 }
 
 body {
   background-color: #4e555b;
+}
+
+.dropdown-item {
+  background: #00000000;
+  color: #ffffff91;
+}
+
+.navbar-nav .dropdown-menu {
+  background: #343a40;
 }
